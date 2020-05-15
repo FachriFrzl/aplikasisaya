@@ -39,7 +39,7 @@ class DailyFragment : Fragment() {
         )
         for (i in 0 until listFriendlist.size)
         {
-            
+
         }
     }
 }
