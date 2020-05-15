@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS1</string>
+    <string-array name="nama_teman">
+        <item>Dean</item>
+        <item>Dhion</item>
+        <item>Oga</item>
+    </string-array>
+    <array name="Fotona">
+        <item>@drawable/dean</item>
+        <item>@drawable/dhion</item>
+        <item>@drawable/oga</item>
+    </array>
+</resources>
